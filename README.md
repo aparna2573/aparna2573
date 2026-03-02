@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @aparna2573
-- 👀 I’m interested in Web Development and Graphic designing
-- 🌱 I’m a learner
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on INSTAGRAM at aparna._.25
+👋 Hi, I’m Aparna Srivastava
+
+💻 Backend-focused Java Developer with experience in building RESTful APIs using Spring Boot and MySQL
+
+🚀 Interested in scalable backend systems, clean architecture, and performance-driven applications
+
+🤝 Open to collaborating on Java, Spring Boot, and full-stack projects
+
+📫 Connect with me on Instagram: @aparna._.25
 
 <!---
 aparna2573/aparna2573 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
